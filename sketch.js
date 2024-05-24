@@ -1,4 +1,3 @@
-@@ -0,0 +1,82 @@
 let cor;
 let ellipseX; // horizontal
 let ellipseY; // vertical
